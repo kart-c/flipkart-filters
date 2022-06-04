@@ -1,0 +1,40 @@
+.filters {
+	display: flex;
+	flex-direction: column;
+	width: 25%;
+	width: 18rem;
+	position: sticky;
+	height: fit-content;
+	top: 1rem;
+}
+
+.filtersHeading {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 2rem;
+}
+
+.filtersHeading > button {
+	padding: 5px 10px;
+}
+
+.filterContainer {
+	display: flex;
+	align-items: center;
+	margin-bottom: 1rem;
+	margin-left: 10px;
+}
+
+.filterContainer > label {
+	user-select: none;
+	cursor: pointer;
+	margin-left: 8px;
+	width: 100%;
+}
+
+.filterTitle {
+	display: block;
+	margin-bottom: 10px;
+	font-weight: 700;
+}

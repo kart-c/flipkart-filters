@@ -1,0 +1,20 @@
+{
+	"brand": [
+		{
+			"id": "20ace7b8-e110-478e-ad8a-b5aa7c2c4cfb",
+			"name": "Adidas"
+		},
+		{
+			"id": "03ebc3d6-2997-4142-927a-85cd245f8574",
+			"name": "Acrux"
+		},
+		{
+			"id": "35520b99-a23d-47e4-9e9f-9b403bfda2c3",
+			"name": "Hiva Trendz"
+		},
+		{
+			"id": "c560d5c1-5fbd-4d9f-89bc-4d96666bb066",
+			"name": "Polo"
+		}
+	]
+}
